@@ -1,0 +1,6 @@
+.bgimage{
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8) 0, rgba(0, 0, 0, 0) 60%, rgba(0, 0, 0, 0.8) 100%),url(../assets/image/1.jpg);
+    /* linear-gradient(80deg,black,transparent),
+    url(../assets/image/1.jpg); */
+     {/* https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png */}
+}
